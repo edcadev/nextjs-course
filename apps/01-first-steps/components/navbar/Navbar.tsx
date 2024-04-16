@@ -2,7 +2,7 @@ import type { FC } from 'react'
 
 export const Navbar: FC = () => {
   return (
-    <nav className="flex gap-2 bg-blue-800/30 p-2 m-2 rounded">
+    <nav className="m-2 flex gap-2 rounded bg-blue-800/30 p-2">
       <span>Home</span>
 
       <a href="/about">About</a>
