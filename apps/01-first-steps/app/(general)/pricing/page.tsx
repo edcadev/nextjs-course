@@ -6,5 +6,5 @@ export const metadata: Metadata = {
 }
 
 export default function PricingPage(): JSX.Element {
-  return <div>PricingPage</div>
+  return <h1 className="text-5xl">Pricing Page</h1>
 }
